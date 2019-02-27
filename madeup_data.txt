@@ -1,0 +1,11 @@
+id,name,lat,lon,temp,temp_max,humidity,clouds,speed
+123,oklahoma city,53,42,89,91,95%,yes,15
+128, tampa,21,42,42,89,90%,cloudy,2
+134,san diego,38,82,68,81,52%,partly,8
+142,san juan,10,32,76,80,78%,clear,12
+581,glasgow,68,92,65,83,55%,clear,16
+678,cairo,43,86,87,88,32%,partly,3
+923, guadalajara,87,32,78,84,70%,cloudy,11
+789,london,76,34,34,65,63%,cloudy,18
+374,moscow,87,43,45,65,8%,clear,20
+987,orlando,98,33,94,95,100%,clear,1

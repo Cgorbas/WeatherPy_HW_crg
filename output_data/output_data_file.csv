@@ -1,0 +1,2 @@
+,base,clouds.all,cod,coord.lat,coord.lon,dt,id,main.grnd_level,main.humidity,main.pressure,main.sea_level,main.temp,main.temp_max,main.temp_min,name,sys.country,sys.message,sys.sunrise,sys.sunset,weather,wind.deg,wind.speed
+0,stations,36,200,52.21,-105.12,1551273652,5978404,952.39,64,1026.25,1026.25,254.763,254.763,254.763,Humboldt,CA,0.0029,1551275393,1551314229,"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03n'}]",267.003,5.99
